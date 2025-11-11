@@ -33,7 +33,7 @@ app.get('/', (req, res) => {
           <p><strong>Computação:</strong> Nuvem Pública</p>
           <p><strong>Status:</strong> ✅ Deploy com Sucesso</p>
           <p><strong>URL:</strong> ${process.env.VERCEL_URL}</p>
-          <p>Feito por: [SEU NOME]</p>
+          <p>Feito por: Luiz Gustavo de Oliveira Costa </p>
         </div>
       </body>
     </html>
